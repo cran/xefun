@@ -1,0 +1,15 @@
+0301a99cf35664d23f7c86fdc8d959c8 *DESCRIPTION
+2e99143f5a0d2bf85cb77a49e41ffd33 *LICENSE
+070333389c3dec371db7f103e28d4ff9 *NAMESPACE
+15e40e6d57a124b4d2f6b128ff40e0d5 *NEWS.md
+b923c759eca96bc7b17dd2bc267ee733 *R/ceiling2.R
+fa55d160cf238626174730f9edf60448 *R/conticnt.R
+59d53320b3b6f6fcf9ef836a2edf88b1 *R/date_funcs.R
+5bab496c944f4e1b603e9b10cfc67117 *R/reprate.R
+0327fbbf80f4e662f6bde97da0c8198d *README.md
+3c9a280b7012034922fb5d504e3a15f3 *man/ceiling2.Rd
+79ec38ebeb465cfee70a904a999c203c *man/conticnt.Rd
+f4bc44e6b4c23d332567e61787451a78 *man/date_bop.Rd
+3588c68590a89d0f6ad6284a36de5086 *man/date_from.Rd
+d69a8924010c8aa25db15d76c9ef2494 *man/date_lwd.Rd
+7eb8d86b3764e9473092a12cdd51c933 *man/reprate.Rd
