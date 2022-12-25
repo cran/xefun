@@ -1,13 +1,14 @@
-a560ce4acfc1c89fee5a8275cdbb72cf *DESCRIPTION
+4468f6af4ac62247370a905a5b75f723 *DESCRIPTION
 2e99143f5a0d2bf85cb77a49e41ffd33 *LICENSE
-f7b456e3eb14986cf3601abc1ef37ab2 *NAMESPACE
-6232311dfd7565cd2e37f7d7f857f0f2 *NEWS.md
+fbb6a38f23eff9b8a5f7054ffcf66153 *NAMESPACE
+ef0e909b9304791d945630e22adc3555 *NEWS.md
 b923c759eca96bc7b17dd2bc267ee733 *R/ceiling2.R
 4e6b83542356ae24d20409abbad8166b *R/conticnt.R
-f8e007e2dd5a642eff7ee21ebca37430 *R/date_funcs.R
+80cc77fee5a9cee7d6d0ce563232b5be *R/date_funcs.R
 5bab496c944f4e1b603e9b10cfc67117 *R/reprate.R
-ac284a0a8b8bf64b5e13718e0974f1e0 *R/utils.R
+4d1358ade358a0789e9b262b72cd411c *R/utils.R
 0327fbbf80f4e662f6bde97da0c8198d *README.md
+3a7abf446205f5d05e7ae78db5a64599 *man/as.list2.Rd
 3c9a280b7012034922fb5d504e3a15f3 *man/ceiling2.Rd
 92ad70bfc75acc3631722121344e094c *man/cols_const.Rd
 3fc87d4ed949ce5248ee38ffa4797105 *man/cols_type.Rd
@@ -15,4 +16,6 @@ dca9eaeb80c0f04713153a28fdbaa72c *man/conticnt.Rd
 f4bc44e6b4c23d332567e61787451a78 *man/date_bop.Rd
 3588c68590a89d0f6ad6284a36de5086 *man/date_from.Rd
 d69a8924010c8aa25db15d76c9ef2494 *man/date_lwd.Rd
+f29c2b458416aa419896cd10f5741c27 *man/date_num.Rd
+4368aecef69799eb3f9465defffa5bbc *man/merge2.Rd
 7eb8d86b3764e9473092a12cdd51c933 *man/reprate.Rd
